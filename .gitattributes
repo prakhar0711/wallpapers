@@ -1,0 +1,4 @@
+*.png -delta
+*.jpg -delta
+*.jpeg -delta
+*.webp -delta
